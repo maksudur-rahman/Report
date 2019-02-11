@@ -5,6 +5,10 @@ This is an open source and free software, also is a linux based OS. So anyone ca
 Audio, Graphics, Photography,video aND PUBLISHING. Ubuntu Studio also includes custom Network. Its also exits some extra features from other OS.
 Many Software and tools are easyly frequent operating system updates.Easily manipulate the other versions of software.
 
+** The Amazon Kindle is a series of e-readers designed and marketed by Amazon **
 Amazon Kindle
+Others e-Reader
 Barnes & Noble Nook GlowLight Plus
 kobo Aura One.
+
+
